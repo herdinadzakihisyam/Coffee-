@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: #3e2723;
+    font-family:  Arial;
+}
+
+h1 {
+    background-color: #efebe9;
+    color:white;
+    padding:10px;
+    border: 2px solid black;
+}
+
+.menu {
+    border:2px solid #6d4c41 ;
+    display: inline-block ;
+    margin: 10px ;
+    padding: 10px ;
+}
+
+.menu:hover{
+    background:#d7ccc8;
+}
+
+img{
+    width: 120px;
+}
